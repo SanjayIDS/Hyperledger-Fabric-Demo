@@ -10,7 +10,7 @@ Docker container orchestration
 
 Channel configuration
 
-While an attempt was made to run a full local Fabric network, my standard Windows + Docker + WSL setup is not reliably representative of production deployments. Hyperledger Fabric is designed primarily for Linux-based server environments.
+### While an attempt was made to run a full local Fabric network, my standard Windows + Docker + WSL setup is not reliably representative of production deployments. Hyperledger Fabric is designed primarily for Linux-based server environments.
 
 To keep the focus on system design and integration architecture, the Fabric SDK interaction is modeled through a simulation layer. This allows:
 
